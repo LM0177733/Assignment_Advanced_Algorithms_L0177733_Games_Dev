@@ -1,2 +1,2 @@
-# Assignment_Advanced_Algorithms_L0177733_Games_Dev
-The second assignment
+# Assignment_Advanced_Algorithms_L0177733_Games_Dev_Hash_Table
+The second assignment, question 3
